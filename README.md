@@ -1,8 +1,6 @@
-# React + Vite
+Exemplo tirado da Kenzie Academy S1 - M3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#um site com design simples, que contém imagen.  
 
-Currently, two official plugins are available:
+Esse projeto foi desenvolvido com total responsividade, utilizando a linguagem React para garantir uma experiência fluida em diferentes dispositivos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
